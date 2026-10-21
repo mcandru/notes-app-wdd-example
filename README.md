@@ -1,6 +1,7 @@
 # Notes app
 
 ## Running it with Docker
+bkah
 
 ```bash
 docker compose up --build
