@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div>
-      <h1>My notes</h1>
+      <h1>My cool notes</h1>
       <p>{count} {count === 1 ? "note" : "notes"}</p>
 
       <form onSubmit={submit}>
